@@ -1,7 +1,10 @@
 .box {
   background-color: gray;
+  height: 500px;
 }
 .isMorning
 {
   background-color: yellow;
+  height: 500px;
+
 }
